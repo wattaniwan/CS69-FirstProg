@@ -282,12 +282,6 @@ boxes.shape
 
 
 
-
-    torch.Size([9, 6])
-
-
-
-
 ```python
 # วนลูปนับจำนวนเฉพาะวัตถุที่เป็น "คน" (คนมี class ID = 0)
 person_count = 0
