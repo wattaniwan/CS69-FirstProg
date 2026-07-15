@@ -1,0 +1,6 @@
+- Goto https://drive.google.com/ 
+- ไปที My Drive
+- สร้างโฟลเดอร์  !!GettingStartProgramming
+- เข้าไปใน !!GettingStartProgramming
+- สร้าง โฟลเดอร์ data
+- สร้าง โฟลเดอร์ images
