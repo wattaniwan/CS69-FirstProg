@@ -2,5 +2,5 @@
 - ไปที My Drive
 - สร้างโฟลเดอร์  !!GettingStartProgramming
 - เข้าไปใน !!GettingStartProgramming
-- สร้าง โฟลเดอร์ data
-- สร้าง โฟลเดอร์ images
+- สร้าง โฟลเดอร์ data แล้วอัพโหลดไฟล์ Mall_Customers.csv ในโฟลเดอร์นี้
+- สร้าง โฟลเดอร์ images แล้วอัพโหลดไฟล์ img1.jpg ในโฟลเดอร์นี้
