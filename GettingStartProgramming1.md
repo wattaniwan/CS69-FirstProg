@@ -35,7 +35,7 @@ cd /content/drive/MyDrive/!!GettingStartProgramming
 ls
 ```
 
-    code-01.ipynb  [0m[01;34mdata[0m/  [01;34mPython1-Basic[0m/
+
 
 
 ## Trick: Short Key
